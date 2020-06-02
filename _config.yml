@@ -1,4 +1,4 @@
-name: MicroWebsite<br>Template
+name: Ritornello
 author: WeMake
 markdown: kramdown
 baseurl:
@@ -11,28 +11,28 @@ plugins:
 exclude: [README.md]
 github: [metadata]
 
-title: "MicroWebsiteTemplate by opencarecc"
-tagline: "This is the template for opencarecc websites"
+title: "Ritornello by WeMake"
+tagline: "This is a tagline"
 
 # multilingual stuff
 index:
   en:
   it: it/index.html
 
-default_lang: "en"
+default_lang: "it"
 
 # Facebook OpenGraph stuff
 opengraph:
-  title: "MicroWebsiteTemplate by opencarecc"
+  title: "Ritornello by WeMake"
   url: "http://opencarecc.github.io/MicroWebsiteTemplate/"
-  description: "This is the template for opencarecc websites"
+  description: "This is a tagline"
   image_url: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-socials.png"
 
 # Twitter Card stuff
 twitter:
-  site: "opencarecc MicroWebsiteTemplate"
-  title: "MicroWebsiteTemplate by opencarecc"
-  description: "This is the template for opencarecc websites"
+  site: "Ritornello by WeMake"
+  title: "Ritornello by WeMake"
+  description: "This is a tagline"
   creator: "opencarecc"
   domain: "http://opencarecc.github.io/MicroWebsiteTemplate/"
   image_url: "http://opencarecc.github.io/MicroWebsiteTemplate/assets/OC-Logo-socials.png"
