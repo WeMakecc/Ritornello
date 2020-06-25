@@ -91,9 +91,9 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Software - <a href='https://www.gnu.org/licenses/gpl-3.0.en.html' target='_blank'>GNU General Public License</a>
+  license_content_html: "Software - <a href='https://www.gnu.org/licenses/agpl-3.0.en.html' target='_blank'>GNU Affero General Public License</a>
                         <br>
-                        Hardware - <a href='http://ohwr.org/cernohl' target='_blank'>CERN OHL v.1.2</a>"
+                        Hardware - <a href='https://ohwr.org/cern_ohl_s_v2.txt' target='_blank'>CERN Open Hardware Licence Version 2 - Strongly Reciprocal</a>"
 
 # dictionary keys for credits.html include file
 credits:
