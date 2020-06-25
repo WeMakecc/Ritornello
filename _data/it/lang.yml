@@ -14,15 +14,15 @@ global:
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
-  title: "MicroWebsiteTemplate"
-  tagline: "Questo è il template per i siti di opencarecc"
+  title: "Ritornello"
+  tagline: " ​contapersone​ per misurare gli ingressi e le uscite"
   buttons:
     - text: "Vedi su GitHub"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate"
+      link: "https://github.com/WeMakecc/Ritornello"
     - text: "Scarica .zip"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate/zipball/master"
+      link: "https://github.com/WeMakecc/Ritornello/zipball/master"
     - text: "Costruisci!"
-      link: "https://github.com/opencarecc/MicroWebsiteTemplate/wiki"
+      link: "https://github.com/WeMakecc/Ritornello/wiki"
 
 # dictionary keys for video.html include file
 video:
@@ -55,7 +55,7 @@ slick:
 
 # dictionary keys for release_notes.html include file
 release_notes:
-  title: "Release 0.1 - 2016/09/12"
+  title: "Release 0.1 - 2020/06/24"
   notes:
     - note: "Nota 1"
     - note: "Nota 2"
